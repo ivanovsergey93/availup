@@ -245,4 +245,4 @@ fi
 echo "✅ Availup exited successfully."
 echo "🧱 Starting Avail."
 trap onexit EXIT
-$AVAIL_BIN --config $CONFIG --app-id $APPID --identity $IDENTITY
+#$AVAIL_BIN --config $CONFIG --app-id $APPID --identity $IDENTITY
